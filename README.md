@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Cha0sManaged
+- 👋 Hi, I’m @Steve
 - 👀 I’m interested in Cybersecurity.
 - 🌱 I’m currently learning ethical hacking.
 - 💞️ I’m looking to collaborate on anything for the purposes of gaining experience.
-- 📫 How to reach me ..
+- 📫 How to reach me: hikertrashsteve@gmail.com
 
 <!---
 SteveL718/SteveL718 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
