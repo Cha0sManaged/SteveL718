@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SteveL718
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Cyber Infrastructure & Technology
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cybersecurity.
+- 🌱 I’m currently learning ethical hacking.
+- 💞️ I’m looking to collaborate on anything for the purposes of gaining experience.
 - 📫 How to reach me ..
 
 <!---
