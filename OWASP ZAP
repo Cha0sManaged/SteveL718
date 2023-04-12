@@ -1,0 +1,9 @@
+#!
+pip install python-owasp-zap-v2.4
+import time && from zapv2 import ZAPv2
+zap = ZAPv2()
+target = 'http://example.com'
+zap.urlopen(target)
+time.sleep(2)
+report = zap.core.alerts(baseurl=target)
+print(report)
